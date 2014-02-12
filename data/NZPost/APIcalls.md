@@ -1,0 +1,3 @@
+JSON - locations.json: http://api.nzpost.co.nz/locator/api/locations?utf8=%E2%9C%93&api_key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&nearby_latitude=-41.118515&nearby_longitude=174.900498&lat1=&lng1=&lat2=&lng2=&keyword=&max=&format=json&callback=&commit=Search
+CSV - nzpost_locations_20140212_1240.csv: Response type: CSV - no position returned
+Google TSV - http://api.nzpost.co.nz/locator/api/locations?utf8=%E2%9C%93&api_key=be492030758a01317afe005056b855ba&nearby_latitude=-41.118515&nearby_longitude=174.900498&lat1=&lng1=&lat2=&lng2=&keyword=&max=&format=tsv&callback=&commit=Search - FAILED

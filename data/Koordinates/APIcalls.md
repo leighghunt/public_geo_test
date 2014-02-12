@@ -1,0 +1,1 @@
+InspireCoverage.geojson - http://api.koordinates.com/api/vectorQuery.json?key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&layer=4022&x=174.907950179051&y=-41.11522330371197&max_results=30&radius=100000&geometry=true&with_field_names=true
